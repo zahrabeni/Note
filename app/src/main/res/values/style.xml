@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="roundedimageview">
+        <item name="cornerfamoly">rounded</item>
+        <item name="cornersize">rounded</item>
+
+
+    </string>
+    <style name="cr8" parent="Theme.AppCompat">
+        <item name="cornerFamily">rounded</item>
+        <item name="cornerSize">20dp</item>
+    </style>
+</resources>
